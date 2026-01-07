@@ -2,6 +2,7 @@
 MediBot demonstrates the utility of combining vector-based retrieval with generative models for domain-specific QA. It shows strong potential as an educational and assistive tool for navigating complex medical texts.
 
 The exponential growth of medical literature, research papers, and clinical documents presents a major challenge: how can healthcare professionals and researchers quickly retrieve accurate, contextually relevant information from unstructured medical data?
+
 MediBot addresses this problem by enabling natural language interaction with medical documents. It is a Retrieval-Augmented Generation (RAG) based chatbot that allows users to ask medical questions and receive precise answers grounded in uploaded medical documents. Unlike traditional chatbots, MediBot does not rely on predefined intents or static responses- it dynamically retrieves relevant content using vector similarity and augments a powerful LLM to generate context-specific responses.
 
 
